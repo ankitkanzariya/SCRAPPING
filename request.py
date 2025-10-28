@@ -1,5 +1,5 @@
 import requests
-r = requests.get("https://api.github.com/")
+r = requests.get("https://github.com/ankitkanzariya")
 
 print(r)
 
